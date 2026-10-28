@@ -9,4 +9,4 @@
 // coverage:ignore-file
 
 /// The version of the `aud_audio_clap` package.
-const String audAudioClapVersion = '0.0.3';
+const String audAudioClapVersion = '0.1.0';
