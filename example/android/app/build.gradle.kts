@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-    namespace = "com.audanika.aud_audio_clap"
+    namespace = "com.example.aud_audio_clap"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -16,7 +16,7 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId = "com.audanika.aud_audio_clap"
+        applicationId = "com.example.aud_audio_clap"
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion
